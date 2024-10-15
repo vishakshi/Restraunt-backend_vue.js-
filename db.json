@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "id": "d167",
+      "name": "vishuuu",
+      "email": "vishuu@gmail.com",
+      "password": "5677"
+    },
+    {
+      "id": "78b0",
+      "name": null,
+      "email": null,
+      "password": null
+    },
+    {
+      "id": "aab1",
+      "name": "ssssssss",
+      "email": "dddddddddd@gmail.com",
+      "password": "xxxxxxxx"
+    },
+    {
+      "id": "0839",
+      "name": null,
+      "email": "dddddddddd@gmail.com",
+      "password": "xxxxxxxx"
+    },
+    {
+      "id": "63c4",
+      "name": null,
+      "email": "dddddddddd@gmail.com",
+      "password": "xxxxxxxx"
+    },
+    {
+      "id": "8def",
+      "name": "bbbbbb",
+      "email": "dddddddddd@gmail.com",
+      "password": "xxxxxxxx"
+    },
+    {
+      "id": "f008",
+      "name": "mmmmm",
+      "email": "dddddddddd",
+      "password": "xxxxxxxx"
+    },
+    {
+      "id": "bc34",
+      "name": "",
+      "email": "dddddddddd",
+      "password": "xxxxxxxx"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "c32a",
+      "name": ",,,,,,,,,",
+      "address": "mmmmmmm",
+      "contact": "vishuuuu"
+    },
+    {
+      "id": "d510",
+      "name": "vishuuu",
+      "address": "bbs",
+      "contact": "6788"
+    },
+    {
+      "id": "7f0d",
+      "name": "vishuuu",
+      "address": "kanpur ",
+      "contact": "77899"
+    }
+  ]
+}
